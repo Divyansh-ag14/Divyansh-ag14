@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
 
-<h3 align="center">str= "world hello" <br/> print(' '.join(str.split()[::-1]))</h3>
+<h4 align="center">str= "world hello" <br/> print(' '.join(str.split()[::-1]))</h4>
 
 <p>
 <a align= "center" href="https://github.com/Divyansh-ag14">
@@ -11,3 +11,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh-ag14&show_icons=true&locale=en&layout=compact" alt="Divyansh-ag14" /></p>
 
+- 📫 How to reach me **divyanshagarwal188@gmail.com**
+<br><br>
+<hr>
