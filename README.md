@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
 
-<h4 align="center">str= "world hello" <br/> print(' '.join(str.split()[::-1]))</h4> 
+<h4 align="center">string= "world hello" <br/> print(' '.join(string.split()[::-1]))</h4> 
 
 <p>
 <a align= "center" href="https://github.com/Divyansh-ag14">
