@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Divyansh! </h1>
 
+<h2 align="center">As my bio says, I'm just trying my hand at coding... </h2>
+
 <h4 align="center">string= "world hello" <br/> print(' '.join(string.split()[::-1]))</h4> 
 
 <p align="center">&nbsp;
