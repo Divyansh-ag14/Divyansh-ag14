@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Divyansh. </h1>
 
-<h2 align="center">Just surviving the day. </h2>
+<h2 align="center">. </h2>
 
 <h4 align="center">string= "world hello" <br/> print(' '.join(string.split()[::-1]))</h4> 
 
