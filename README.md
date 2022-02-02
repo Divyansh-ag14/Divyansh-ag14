@@ -2,7 +2,7 @@
 
 <h2 align="center">... </h2>
 
-//<h4 align="center">string= "world hello" <br/> print(' '.join(string.split()[::-1]))</h4> 
+<h4 align="center">string= "world hello" <br/> print(' '.join(string.split()[::-1]))</h4> 
 
 <p align="center">&nbsp;
   <img width="480" src="https://github-readme-stats.vercel.app/api?username=Divyansh-ag14&theme=tokyonight&show_icons=true&locale=en" alt="Divyansh" /><img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-ag14&theme=tokyonight&show_icons=true&locale=en" alt="Divyansh" />
