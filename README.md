@@ -1,6 +1,4 @@
-<h1 align="center">Hi, 
-         height="45"
-         width="45" /> I'm Divyansh! </h1>
+<h1 align="center">Hi, I'm Divyansh! </h1>
 
 
 <p align="center">&nbsp;
