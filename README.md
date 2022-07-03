@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sklearn/sklearn-original.svg" alt="sklearn" width="40" height="40"/> </a></p>
+</p>
 
 - 📫 Connect with me: **divyanshagarwal188@gmail.com**
 <br><br>
