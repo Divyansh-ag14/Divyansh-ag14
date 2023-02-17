@@ -16,7 +16,7 @@
   <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://miro.medium.com/max/1050/1*c7gkx366nMxBuTrt82CjDg.jpeg" alt="sklearn" width="60" height="60"/> </a> 
 </p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=Divyansh-ag14&style=flat_square) -->
+![](https://komarev.com/ghpvc/?username=Divyansh-ag14&style=flat_square)
 
 - 📫 connect with me: **divyanshagarwal188@gmail.com**
 <br><br>
