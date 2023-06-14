@@ -18,6 +18,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Divyansh-ag14&style=flat)
 
-- 📫 connect with me: **divyanshagarwal188@gmail.com**
+<!-- - 📫 connect with me: **divyanshagarwal188@gmail.com** -->
 <br><br>
 <hr>
