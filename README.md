@@ -2,7 +2,7 @@
 
 <!-- Stats Section -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyansh-ag14&theme=tokyonight&show_icons=true&locale=en" alt="Divyansh's Stats" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyansh-ag14&theme=tokyonight&show_icons=true&locale=en" alt="Divyansh's Stats" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-ag14&theme=tokyonight&show_icons=true&locale=en" alt="Divyansh's Streak" />
 </p>
 
