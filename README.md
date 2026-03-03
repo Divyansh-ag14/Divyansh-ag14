@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Divyansh Agarwal 👋</h1>
 
 <p align="center">
-  M.S. Applied Data Science @ University of Florida  
-  AI Engineer | Data Engineer | GenAI Systems Builder
+M.S. Applied Data Science @ University of Florida <br>
+AI Engineer • Data Engineer • GenAI Systems Builder
 </p>
 
 <hr>
@@ -10,10 +10,10 @@
 <h3 align="center">What I Work On</h3>
 
 <p align="center">
-🔹 Clinical AI Systems (ECG PQRST Detection, Medical Imaging)  
-🔹 Multimodal RAG & LLM Applications (AWS Bedrock, Claude, FAISS)  
-🔹 Data Warehousing & ETL Pipelines (SQL, Snowflake-style modeling)  
-🔹 Cloud-Native ML Infrastructure (AWS, Docker, HPC)  
+🔹 Clinical AI Systems (ECG PQRST Detection, Medical Imaging)<br>
+🔹 Multimodal RAG & LLM Applications (AWS Bedrock, Claude, FAISS)<br>
+🔹 Data Warehousing & ETL Pipelines (SQL, Snowflake-style modeling)<br>
+🔹 Cloud-Native ML Infrastructure (AWS, Docker, HPC)<br>
 🔹 End-to-End ML Systems (Training → Evaluation → Deployment)
 </p>
 
@@ -22,11 +22,21 @@
 <h3 align="center">Featured Projects</h3>
 
 <p align="center">
-🫀 <b>BeatNet ECG System</b> – 1D U-Net for precise PQRST delineation with cross-dataset generalization  
-🧠 <b>Multimodal RAG System</b> – AWS Bedrock + FAISS + Streamlit with memory-aware architecture  
-🏗 <b>SQL Data Warehouse</b> – Medallion (Bronze–Silver–Gold) architecture with dimensional modeling  
-🩺 <b>Medical Imaging AI</b> – Pneumonia detection & antibiogram zone segmentation  
-☁️ <b>AWS ETL Pipeline</b> – Serverless data lake with S3, Glue, Athena, QuickSight
+
+🧠 <b>Multimodal RAG System</b><br>
+AWS Bedrock + FAISS + Streamlit with memory-aware architecture
+<br><br>
+
+🏗 <b>SQL Data Warehouse</b><br>
+Medallion (Bronze–Silver–Gold) architecture with dimensional modeling
+<br><br>
+
+🩺 <b>Medical Imaging AI</b><br>
+Pneumonia detection & antibiogram zone segmentation
+<br><br>
+
+☁️ <b>AWS ETL Pipeline</b><br>
+Serverless data lake with S3, Glue, Athena, QuickSight
 </p>
 
 <hr>
@@ -34,12 +44,17 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<b>Languages:</b> Python, SQL, C++  
-<b>ML/DL:</b> PyTorch, TensorFlow, Scikit-learn, Detectron2  
-<b>GenAI:</b> LangChain, LLM Agents, RAG, AWS Bedrock, Claude  
-<b>Data Engineering:</b> ETL, Dimensional Modeling, Medallion Architecture, Spark  
-<b>Cloud & DevOps:</b> AWS, Docker, GitHub Actions, CI/CD  
-<b>Data Systems:</b> Snowflake Concepts, SQL Server, Athena, FAISS
+<b>Languages:</b> Python • SQL • C++<br><br>
+
+<b>ML/DL:</b> PyTorch • TensorFlow • Scikit-learn • Detectron2<br><br>
+
+<b>GenAI:</b> LangChain • LLM Agents • RAG • AWS Bedrock • Claude<br><br>
+
+<b>Data Engineering:</b> ETL • Dimensional Modeling • Medallion Architecture • Spark<br><br>
+
+<b>Cloud & DevOps:</b> AWS • Docker • GitHub Actions • CI/CD<br><br>
+
+<b>Data Systems:</b> Snowflake Concepts • SQL Server • Athena • FAISS
 </p>
 
 <hr>
