@@ -33,9 +33,6 @@ I focus on turning research-grade models into deployable, reproducible systems.
 **Multimodal RAG System**  
 Memory-aware retrieval architecture using AWS Bedrock, FAISS, and Streamlit UI.
 
-**ECG AI**  
-PQRST peak detection system with cross-dataset validation and physiological post-processing.
-
 **SQL Data Warehouse**  
 Bronze–Silver–Gold Medallion architecture with star schema modeling and optimized analytical queries.
 
