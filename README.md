@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Divyansh Agarwal 👋</h1>
+<h1 align="center">Hi, I'm Divyansh Agarwal </h1>
 
 <p align="center">
 M.S. Applied Data Science @ University of Florida <br>
@@ -71,6 +71,3 @@ Building production-ready AI systems that bridge research-grade ML with scalable
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-ag14&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh-ag14&theme=tokyonight&layout=compact" />
-</p>
