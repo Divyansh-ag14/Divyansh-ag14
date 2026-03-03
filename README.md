@@ -9,7 +9,7 @@ AI Engineer • Data Engineer • GenAI Systems Builder
 
 <h3 align="center">What I Work On</h3>
 
-<p align="center">
+<p>
 🔹 Clinical AI Systems (ECG PQRST Detection, Medical Imaging)<br>
 🔹 Multimodal RAG & LLM Applications (AWS Bedrock, Claude, FAISS)<br>
 🔹 Data Warehousing & ETL Pipelines (SQL, Snowflake-style modeling)<br>
