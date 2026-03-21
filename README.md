@@ -1,66 +1,54 @@
 <h1 align="center">Divyansh Agarwal</h1>
 
 <p align="center">
-M.S. Applied Data Science @ University of Florida  
-AI Systems Engineer | Clinical AI | GenAI | Data Infrastructure  
-<br><br>
-🌐 Portfolio: https://divyanshagarwal.streamlit.app
+  <strong>M.S. Applied Data Science @ University of Florida</strong><br>
+  ML Engineer · Clinical AI · GenAI · Data Engineering
+</p>
+
+<p align="center">
+  <a href="https://divyansh-ag14.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/divyanshag14/">LinkedIn</a> ·
+  <a href="https://medium.com/@divyanshagarwal188">Blog</a> ·
+  <a href="mailto:divyanshagarwal188@gmail.com">Email</a>
 </p>
 
 ---
 
-### About Me
+### About
 
-I build production-ready AI systems that combine deep learning, data engineering, and cloud infrastructure.  
-My work spans clinical AI (ECG & medical imaging), multimodal LLM applications, and scalable data platforms.
-
-I focus on turning research-grade models into deployable, reproducible systems.
+ML Engineer with experience building deep learning models, LLM applications, and cloud-based ML pipelines across healthcare, recommendation engines, and analytics platforms. Currently pursuing a Master's in Applied Data Science at the University of Florida.
 
 ---
 
-### Core Areas
+### Experience
 
-- Clinical AI Systems (ECG PQRST delineation, medical imaging models)
-- Multimodal RAG & LLM Applications (AWS Bedrock, Claude, FAISS)
-- Data Warehousing & ETL (Medallion Architecture, Dimensional Modeling)
-- Cloud-Native ML Infrastructure (AWS, Docker, HPC)
-- End-to-End ML Pipelines (Training → Evaluation → Deployment)
+| Role | Company | Focus |
+|------|---------|-------|
+| **Data Analytics Intern** | Altair Engineering | ETL pipelines, predictive modeling, dashboards |
+| **Data Science Intern** | Celebal Technologies | Azure ML, recommendation systems, LangChain |
+| **Data Science Intern** | Americana Restaurants | Time series forecasting, Power BI |
 
 ---
 
 ### Selected Projects
 
-**Multimodal RAG System**  
-Memory-aware retrieval architecture using AWS Bedrock, FAISS, and Streamlit UI.
+| Project | Stack | Highlight |
+|---------|-------|-----------|
+| **Antibiogram Zone Detector** | PyTorch, Detectron2, OpenCV | Reduced lab workload by 75% with automated image-based microbial analysis |
+| **Enterprise SQL Data Warehouse** | SQL, Docker, ETL | Medallion architecture with star schema modeling for OLAP |
+| **LangChain EDA Assistant** | LangChain, GPT-4, Streamlit | Dual-agent system for natural language SQL queries & Plotly visualizations |
+| **AWS Data Engineering Pipeline** | S3, Glue, Lambda, Athena | End-to-end serverless pipeline for YouTube campaign analytics |
 
-**SQL Data Warehouse**  
-Bronze–Silver–Gold Medallion architecture with star schema modeling and optimized analytical queries.
-
-**Medical Imaging AI**  
-Deep learning models for pneumonia classification and antibiotic zone detection.
-
-**AWS Serverless ETL Pipeline**  
-Event-driven data lake architecture using S3, Glue, Athena, and QuickSight.
+> 📘 Check out my **[Python Course](https://github.com/Divyansh-ag14/python_course_by_divyansh)** — a hands-on guide to learning Python.
 
 ---
 
 ### Tech Stack
 
-**Languages:** Python, SQL, C++  
-**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Detectron2  
-**GenAI:** LangChain, LLM Agents, RAG, AWS Bedrock, Claude  
-**Data Engineering:** ETL, Spark, Dimensional Modeling, Medallion Architecture  
-**Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD  
-**Data Systems:** Snowflake Concepts, SQL Server, Athena, FAISS  
-
----
-
-### Current Direction
-
-Designing AI systems that integrate modeling, retrieval, and scalable data infrastructure into cohesive production workflows.
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-ag14&theme=tokyonight" />
-</p>
+```text
+Languages        Python · SQL · PySpark · C++
+ML / DL          PyTorch · TensorFlow · Scikit-learn · Detectron2
+GenAI            LangChain · RAG · Prompt Engineering · Agentic AI
+Data Eng         ETL · Data Warehousing · Medallion Architecture · Data Modeling
+Cloud & MLOps    AWS (S3, Lambda, Glue, Athena) · Azure ML · Docker · MLflow
+Visualization    Power BI · Plotly · Streamlit · Matplotlib · Seaborn
