@@ -9,7 +9,7 @@
   <a href="https://divyansh-ag14.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/divyanshag14/">LinkedIn</a> ·
   <a href="https://medium.com/@divyanshagarwal188">Blog</a> ·
-  <a href="mailto:divyanshagarwal188@gmail.com">Email</a>
+  <a href="mailto:divyanshag2000@gmail.com">Email</a>
 </p>
 
 ---
