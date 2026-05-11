@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 🎓 **M.S. Applied Data Science** @ University of Florida  
 💼 **Currently:** ML Intern @ Aventusoft (Biomedical AI)  
@@ -45,15 +45,13 @@
 💡 *I turn research papers into shipping products.*
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyansh-ag14&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Divyansh-ag14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
