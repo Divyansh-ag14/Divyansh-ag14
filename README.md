@@ -27,16 +27,14 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" height="200" src="https://media.giphy.com/media/iiyJnGicSi886/giphy.gif" />
 
 🎓 **M.S. Applied Data Science** @ University of Florida  
 💼 **Currently:** ML Intern @ Aventusoft (Biomedical AI)  
 🌍 **Based in:** Florida, USA 🌴  
 ✍️ **I write about ML & AI** on [Medium](https://medium.com/@divyanshagarwal188)  
 
-🔭 **What I do:**
+**🔭 What I do:**
 - 🤖 Build production-grade **LLM systems** and **multi-agent AI** workflows
 - 🩺 Apply **deep learning** to biomedical signal processing
 - ⚙️ Ship **end-to-end ML pipelines** from research to production
@@ -44,14 +42,7 @@
 
 💡 *I turn research papers into shipping products.*
 
-</td>
-<td width="45%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Divyansh-ag14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
