@@ -204,27 +204,6 @@ Medallion-style SQL warehouse with star-schema dimensional modeling and paramete
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://divyanshag.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-divyanshag.com-FF5722?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/divyanshag14/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@divyanshagarwal188">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:divyanshag.data@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <em>⭐ Open to opportunities in AI/ML Engineering, LLM Systems, and Applied Research</em>
-</p>
-
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
