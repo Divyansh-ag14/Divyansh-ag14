@@ -175,7 +175,7 @@ Medallion-style SQL warehouse with star-schema dimensional modeling and paramete
 
 | Role | Company | Highlight |
 |------|---------|-----------|
-| 🩺 **ML Intern** | Aventusoft | 5-peak ECG detection model — **0.906 F1**, 1.7ms R-peak MAE |
+| 🩺 **Machine Learning Engineer Intern** | Aventusoft | Developed Dual Engine Pipeline for Fiducial Detection and Disease Classification|
 | 🏢 **Data Analytics Intern** | Altair Engineering | Architected LLM-powered analytics assistant with RAG |
 | 🏪 **Data Science Intern** | Celebal Technologies | Productionized LangChain RAG apps + Azure ML pipelines |
 | 🍔 **Data Science Intern** | Americana Restaurants | Forecasting models across **100+ restaurant locations** |
