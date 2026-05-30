@@ -164,8 +164,10 @@ A medallion-style warehouse with dimensional models and parameterized ETL pipeli
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh-ag14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyansh-ag14&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-ag14&theme=tokyo-night&hide_border=true&area=true" />
