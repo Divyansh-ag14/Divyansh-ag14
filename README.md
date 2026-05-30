@@ -153,19 +153,19 @@ A medallion-style warehouse with dimensional models and parameterized ETL pipeli
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Divyansh-ag14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Divyansh-ag14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</p> -->
 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Divyansh-ag14&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Divyansh-ag14&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
+</p> -->
 
 
 
