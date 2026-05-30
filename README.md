@@ -116,30 +116,6 @@ I also write about machine learning and AI on [Medium](https://medium.com/@divya
 
 ---
 
-## Selected Projects
-
-### Multi-Agent Clinical Decision Support
-A clinical AI workflow for patient intake, differential diagnosis, evidence review, and recommendation generation, grounded with retrieval over medical sources.
-
-**Tech:** `LangGraph` `OpenAI` `FAISS` `FastAPI` `Next.js`
-
-### ReasonFlow
-A multi-agent reasoning system with supervisor-led planning, reflection, retries, and human approval for complex tasks.
-
-**Tech:** `LangGraph` `LangChain` `Streamlit` `Groq`
-
-### Antibiogram Zone Detector
-An instance segmentation pipeline for antibiotic susceptibility testing that reduced manual review workload in lab settings.
-
-**Tech:** `PyTorch` `Detectron2` `OpenCV`
-
-### Enterprise SQL Data Warehouse
-A medallion-style warehouse with dimensional models and parameterized ETL pipelines for analytics workloads.
-
-**Tech:** `SQL` `Docker` `ETL` `Data Modeling`
-
----
-
 ## Experience
 
 | Role | Company | Focus |
