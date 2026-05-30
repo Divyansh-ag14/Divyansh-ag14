@@ -35,10 +35,10 @@ I also write about machine learning and AI on [Medium](https://medium.com/@divya
 
 ## What I Work On
 
-- LLM applications and multi-agent systems
-- Biomedical machine learning and signal processing
-- End-to-end ML pipelines, from experimentation to deployment
-- Retrieval and data systems that support production AI
+- Applied AI systems, including LLM and multi-agent workflows
+- Data engineering and retrieval pipelines for production use cases
+- Machine learning and AI for healthcare, analytics, and forecasting
+- End-to-end systems that connect data, models, evaluation, and deployment
 
 ## Tech Stack
 
