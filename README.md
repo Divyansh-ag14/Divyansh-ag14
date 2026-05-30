@@ -27,9 +27,9 @@
 
 ## About Me
 
-I’m an M.S. in Applied Data Science candidate at the University of Florida and currently work as an ML Intern at Aventusoft, where I focus on biomedical AI.
+I’m a data and AI engineer with an M.S. in Applied Data Science from the University of Florida. I build production-focused systems across LLMs, machine learning, analytics, and data engineering.
 
-My work is centered on applied machine learning, LLM systems, retrieval pipelines, and production-facing AI workflows. I’m especially interested in building systems that move beyond prototypes and hold up in real use.
+My work spans multi-agent AI, RAG pipelines, biomedical ML, forecasting, and data platforms, with a focus on turning complex data into reliable products and decision systems.
 
 I also write about machine learning and AI on [Medium](https://medium.com/@divyanshag.data).
 
