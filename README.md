@@ -149,9 +149,9 @@ I also write about machine learning and AI on [Medium](https://medium.com/@divya
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh-ag14&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+</p> -->
 
 
 <!-- Animated Footer -->
